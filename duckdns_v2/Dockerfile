@@ -9,6 +9,6 @@ RUN apk add --no-cache openssl \
   && chmod a+x /usr/bin/dehydrated
 
 # Copy data
-COPY data/*.sh /
+COPY scripts/*.sh /
 
 CMD [ "/run.sh" ]
