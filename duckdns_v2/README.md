@@ -1,4 +1,4 @@
-# Home Assistant Add-on: DuckDNS v2
+# Home Assistant Add-on: DuckDNS v2 
 
 Fork from https://github.com/home-assistant/addons/tree/master/duckdns
 
