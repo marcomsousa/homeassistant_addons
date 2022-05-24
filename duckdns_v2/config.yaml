@@ -1,16 +1,16 @@
 ---
-version: 2.0.3
+version: 2.0.4
 slug: duckdns_v2
 name: Duck DNS v2
 description: >-
   Free Dynamic DNS (DynDNS or DDNS) service with Let's Encrypt support
 url: https://github.com/marcomsousa/duckdns_v2/tree/master/duckdns
 arch:
-  - armhf
-  - armv7
+#  - armhf
+#  - armv7
   - aarch64
-  - amd64
-  - i386
+#  - amd64
+#  - i386
 image: marcomsousa/{arch}-addon-duckdnsv2
 map:
   - ssl:rw
